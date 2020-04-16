@@ -24,6 +24,7 @@ After installing we are good to go.
 2. Then we will use BeautifulSoup library to get the data from HTML content and store it in a form of List.<br>
 3. Output the data in formats such as .csv .xlsx .json,etc. and we can use this data to plot graphs, tables, charts,etc using matplotlib, searborn, geopandas,etc libraries.
 
+<h3>Extras-</h3>
 If you want to learn more about scraping data from websites, there is a great blog. So check that out.
 https://www.pluralsight.com/guides/extracting-data-html-beautifulsoup
 
