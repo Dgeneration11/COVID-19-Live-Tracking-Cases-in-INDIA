@@ -1,4 +1,4 @@
-# COVID---19-Live-Tracking-Cases-in-INDIA.
+# COVID-19-Live-Tracking-Cases-in-INDIA.
 ![2019-nCoV-CDC-23312_without_background small](https://user-images.githubusercontent.com/57309408/79447620-c3674580-7ffd-11ea-935f-5564545e7ea4.png)
 
 Coronavirus or COVID-19 doesn't need any introduction. WHO has already declared it as pandemic because of it's last couple of weeks impact.
@@ -16,4 +16,11 @@ Prettytable <br>
 </b>
 
 <h2>Install the above mentioned packages - </h2>
-I hope you know how to install them but if you don't then just <b> pip install package_name </b> in your termianl..
+I hope you know how to install them but if you don't then just <b> pip install package_name </b> in your termianl.
+After installing we are good to go.
+
+<h2> How is it working?</h2>
+1. So basically, we are sending<b> GET HTTP<b> request to the url where you want the data from, and respond will be in HTML content itself. To do this we are using Requests library.
+2.   
+  
+
