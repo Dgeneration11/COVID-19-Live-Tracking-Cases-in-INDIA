@@ -6,7 +6,6 @@ Coronavirus or COVID-19 doesn't need any introduction. WHO has already declared 
 As of now, most of people are working from home. I decided to utilize my time to build a <b>Python Script</b> that takes the data as input from the official website of Ministry of Health and Family Welfare, Government of India and turn that information to use to plot graphs in Python.
 
 <h3>Packages used are-</h3>
-<br>
 <b>
 Pandas<br>
 Seaborn<br>
