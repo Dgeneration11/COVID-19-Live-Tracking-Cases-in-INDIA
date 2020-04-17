@@ -17,10 +17,6 @@ Prettytable <br>
 
 <h2>Install the above mentioned packages - </h2>
 I hope you know how to install them but if you don't then just <b> pip install package_name </b> in your termianl.
-eg.
-``` r
-pip install matplotlib 
-```
 After installing we are good to go.
 
 <h2> How is it working?</h2>
